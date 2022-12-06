@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I am fmtJava who is an android developer. 
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
+<img alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fmtjava)](https://github.com/anuraghazra/github-readme-stats)
 
