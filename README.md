@@ -7,6 +7,7 @@
 <p>  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
+  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/HarmonyOS_logo.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-ar21.svg"></code>
